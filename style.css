@@ -346,11 +346,11 @@ footer {
 }
 
 .social-section {
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 80%;
     margin: 0;
     background-color: rgba(0, 0, 0, 0.7);
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .social-section h2 {
@@ -362,14 +362,14 @@ footer {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;
+    gap: 3px;
     width: auto;
-    margin: 8px;
-    padding: 8px 18px;
+    margin: 5px;
+    padding: 6px 15px;
     color: violet;
     background-color: rgb(99, 97, 97);
     text-decoration: none;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .social-section .button:hover {
